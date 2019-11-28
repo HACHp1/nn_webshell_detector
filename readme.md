@@ -8,7 +8,7 @@
 ## 文件结构
 
 * bin: 储存二进制文件，如内存中加载好的数据
-* data: 数据集，由于原数据集过大，请自行下载并解压数据集（解压后代码会读取data子目录中所有后缀为PHP的文件），推荐的数据集在最下方
+* data: 数据集
 * etc: 杂项、临时文件等
 * log: 训练记录
 * model: 模型存放
@@ -41,21 +41,21 @@
 
 ### bad
 
-https://github.com/JohnTroony/php-webshells
-https://github.com/ysrc/webshell-sample
-https://github.com/tennc/webshell
-https://github.com/xl7dev/WebShell
+* https://github.com/JohnTroony/php-webshells
+* https://github.com/ysrc/webshell-sample
+* https://github.com/tennc/webshell
+* https://github.com/xl7dev/WebShell
 
 ### good
 
-https://github.com/WordPress/WordPress
-https://github.com/typecho/typecho
-https://github.com/phpmyadmin/phpmyadmin
-https://github.com/laravel/laravel
-http://www.phpcms.cn/
-https://github.com/symfony/symfony
-https://github.com/yiisoft/yii2-redis
-https://github.com/bcit-ci/CodeIgniter/
-https://github.com/smarty-php/smarty
-http://www.thinkphp.cn
-https://github.com/top-think/framework
+* https://github.com/WordPress/WordPress
+* https://github.com/typecho/typecho
+* https://github.com/phpmyadmin/phpmyadmin
+* https://github.com/laravel/laravel
+* http://www.phpcms.cn/
+* https://github.com/symfony/symfony
+* https://github.com/yiisoft/yii2-redis
+* https://github.com/bcit-ci/CodeIgniter/
+* https://github.com/smarty-php/smarty
+* http://www.thinkphp.cn
+* https://github.com/top-think/framework
