@@ -1,0 +1,20 @@
+# bad
+
+https://github.com/JohnTroony/php-webshells
+https://github.com/ysrc/webshell-sample
+https://github.com/tennc/webshell
+https://github.com/xl7dev/WebShell
+
+# good
+
+https://github.com/WordPress/WordPress
+https://github.com/typecho/typecho
+https://github.com/phpmyadmin/phpmyadmin
+https://github.com/laravel/laravel
+http://www.phpcms.cn/
+https://github.com/symfony/symfony
+https://github.com/yiisoft/yii2-redis
+https://github.com/bcit-ci/CodeIgniter/
+https://github.com/smarty-php/smarty
+http://www.thinkphp.cn
+https://github.com/top-think/framework
